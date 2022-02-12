@@ -6,9 +6,27 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.1.4",
     "mongoose-slug-plugin": "^2.1.0",
-    "multer": "^1.4.4"
+    "multer": "^1.4.4",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
   },
   "scripts": {
     "start": "nodemon app.js"
-  }
+  },
+  "name": "task-express-auth-signin-sp",
+  "description": "\"# TASK-Express-Auth-Signup-SP\"  \"# TASK-Express-Auth-Signin-SP\"",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAlkandari/TASK-Express-Auth-Signin-SP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAlkandari/TASK-Express-Auth-Signin-SP/issues"
+  },
+  "homepage": "https://github.com/AAlkandari/TASK-Express-Auth-Signin-SP#readme"
 }
